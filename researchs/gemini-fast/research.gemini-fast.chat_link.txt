@@ -1,1 +1,9 @@
 https://placeholder-link.com
+PROJE REFERANS NOTU:
+-------------------
+Bu çalışma, sistem yönetimi ve güvenlik duvarı (SecOps) dersi kapsamında 
+hazırlanan "Sistem Servis İzleme Aracı" için yapay zeka desteğiyle 
+oluşturulan veri setlerini ve raporlama şablonlarını içerir.
+
+Oluşturulma Tarihi: 2026-01-20
+Geliştirici Notu: Terminal çıktıları ve HTML dashboard bu verilerle senkronize edilmelidir.
