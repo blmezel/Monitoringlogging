@@ -1,0 +1,17 @@
+{
+  "projectName": "Advanced Pentest Monitoring",
+  "category": "Security & Logging",
+  "author": "Ogrenci Adı",
+  "version": "1.0.0",
+  "description": "Kali Linux system monitoring and automated log analysis tool for penetration testing environments.",
+  "features": [
+    "Service Status Monitoring (Active/Passive)",
+    "Log Filtering (Error/Warning via journalctl)",
+    "Critical Service Alerting",
+    "Automated Reporting"
+  ],
+  "requirements": {
+    "os": "Kali Linux (Rolling)",
+    "language": "Bash / Shell Script"
+  }
+}
