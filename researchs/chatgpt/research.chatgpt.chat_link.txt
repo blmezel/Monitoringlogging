@@ -1,1 +1,13 @@
 https://placeholder-link.com
+Bu çalışma, systemd tabanlı Linux sistemlerde servis izleme (monitoring) ve loglama (logging)
+amaçlı açık kaynak araçların araştırılması için ChatGPT kullanılarak hazırlanmıştır.
+
+Araştırma sürecinde:
+- Open Source işletim sistemleri
+- DevOps ve SecOps yaklaşımları
+- CLI ve GUI tabanlı araçlar
+- systemd ve journald entegrasyonu
+
+konuları esas alınmıştır.
+
+Bu dosya, araştırmanın ChatGPT destekli yapıldığını belgelemek amacıyla eklenmiştir.
